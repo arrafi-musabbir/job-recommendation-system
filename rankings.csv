@@ -1,0 +1,178 @@
+OS,Budget,Size,Camera Importance,Usage Hours (Battery),Speed Importance,top,second,third,confidence,difficulty
+Must be Android,400.00,Large,A little,A little,A lot,Motorola Moto G100,Motorola Edge (2021),Samsung Galaxy A42,OK,Medium
+Must be Android,400.00,Large,A ton,A little,I need speed,Google Pixel 6,OnePlus 9,Samsung Galaxy S20 FE,OK,Hard
+Must be Android,400.00,Medium,Not sure,Not sure,I need speed,OnePlus 8T,Motorola Moto G100,OnePlus 9,OK,Medium
+Must be Android,400.00,No preference,Somewhat,A little,A little,Google Pixel 5a,Samsung Galaxy A53,Samsung Galaxy A42,Good,Medium
+Must be Android,400.00,No preference,A ton,A lot,A lot,Motorola Moto G100,Samsung Galaxy A42,Samsung Galaxy A53,Good,Medium
+Must be Android,400.00,No preference,Not sure,A lot,A lot,Motorola Moto G100,OnePlus 8T,Motorola Edge (2021),OK,Medium
+Must be Android,400.00,Small,A ton,A ton,Not sure,Google Pixel 5a,OnePlus 8T,Samsung Galaxy A53,OK,Hard
+Must be Android,400.00,Small,Somewhat,Not sure,I need speed,OnePlus 8T,Motorola Moto G100,OnePlus 9,OK,Medium
+Must be Android,600.00,Large,A little,A little,Not sure,Google Pixel 6,OnePlus 9,Samsung Galaxy S20 FE,Good,Easy
+Must be Android,600.00,No preference,A lot,A ton,I need speed,Samsung Galaxy S20 FE,Google Pixel 6,OnePlus 9,Good,Medium
+Must be Android,600.00,Small,A lot,A little,Not sure,Google Pixel 6,OnePlus 9,Samsung Galaxy S22,OK,Hard
+Must be Android,800.00,Large,A little,Not sure,I need speed,Motorola Edge 30 Pro,OnePlus 9 Pro,Samsung Galaxy S22+,OK,Medium
+Must be Android,800.00,Large,A lot,Not sure,A little,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Google Pixel 6 Pro,Good,Easy
+Must be Android,800.00,No preference,A little,Not sure,Not sure,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Google Pixel 6 Pro,OK,Easy
+Must be Android,800.00,No preference,Not sure,Not sure,I need speed,Samsung Galaxy S22,OnePlus 9 Pro,Sony Xperia 5 III,OK,Medium
+Must be Android,800.00,No preference,Not sure,Not sure,Not sure,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Google Pixel 6 Pro,Good,Easy
+Must be Android,800.00,No preference,Somewhat,Not sure,A lot,Samsung Galaxy S22 Ultra,Samsung Galaxy S22,Samsung Galaxy S22+,OK,Medium
+Must be Android,800.00,Small,A little,A little,Not sure,Samsung Galaxy S22,Sony Xperia 5 III,Google Pixel 5a,Good,Medium
+Must be Android,Not sure,Large,Not sure,Not sure,A little,Motorola Moto G Stylus,Motorola Moto G100,Motorola Edge (2021),Good,Medium
+Must be Android,Not sure,Large,Somewhat,Not sure,Not sure,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Google Pixel 6,Good,Medium
+Must be Android,Not sure,Medium,A ton,A little,A little,Google Pixel 5a,Google Pixel 6,Samsung Galaxy S22,OK,Medium
+Must be Android,Not sure,No preference,Somewhat,Not sure,A little,Google Pixel 6,Samsung Galaxy S22,OnePlus 9,Poor,Medium
+Must be Android,Not sure,No preference,A lot,Not sure,A little,Google Pixel 6,Google Pixel 5a,Samsung Galaxy S22,Good,Medium
+Must be Android,Not sure,No preference,Somewhat,A little,A little,OnePlus 8T,Motorola Moto G100,Google Pixel 5a,OK,Medium
+Must be Android,Not sure,Large,A ton,Not sure,A lot,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Google Pixel 6 Pro,Good,Easy
+Must be Android,Not sure,Small,A little,A lot,A little,Samsung Galaxy S22,Sony Xperia 5 III,OnePlus 9,OK,Medium
+Must be Android,Not sure,Small,A little,A lot,A lot,Sony Xperia 5 III,Google Pixel 6,Samsung Galaxy S21 FE,OK,Hard
+Must be Android,Not sure,Small,A little,A ton,A little,Apple iPhone 13 Pro,Apple iPhone 13,Sony Xperia 5 III,Good,Medium
+Must be Android,Not sure,Small,A lot,A lot,A little,Google Pixel 5a,Samsung Galaxy S21 FE,Sony Xperia 5 III,OK,Medium
+Must be iPhone,400.00,Medium,A ton,A little,A lot,Apple iPhone SE (2022),Apple iPhone 12 mini,Apple iPhone 11,OK,Medium
+Must be iPhone,400.00,Medium,A ton,Not sure,A little,Apple iPhone 11,Apple iPhone SE (2022),Apple iPhone 12 mini,OK,Medium
+Must be iPhone,400.00,No preference,A ton,Not sure,A lot,Apple iPhone SE (2022),Apple iPhone 12 mini,Apple iPhone 11,Good,Medium
+Must be iPhone,400.00,No preference,Not sure,A ton,I need speed,Apple iPhone 11,Apple iPhone SE (2022),Apple iPhone 12 mini,OK,Medium
+Must be iPhone,400.00,No preference,Not sure,Not sure,A little,Apple iPhone SE (2022),Apple iPhone 11,Apple iPhone 12 mini,OK,Easy
+Must be iPhone,400.00,No preference,Somewhat,A lot,Not sure,Apple iPhone SE (2022),Apple iPhone 11,Apple iPhone 12 mini,Good,Medium
+Must be iPhone,600.00,Large,A lot,A lot,A little,Apple iPhone 11,Apple iPhone 12,Apple iPhone 13,OK,Easy
+Must be iPhone,600.00,Large,Somewhat,Not sure,A little,Apple iPhone 11,Apple iPhone 12,Apple iPhone 13,OK,Easy
+Must be iPhone,600.00,Medium,A little,Not sure,A little,Apple iPhone 11,Apple iPhone 12,Apple iPhone 12 mini,Good,Medium
+Must be iPhone,600.00,Medium,A little,Not sure,A lot,Apple iPhone 12,Apple iPhone 11,Apple iPhone 13,OK,Hard
+Must be iPhone,600.00,Medium,A lot,A little,Not sure,Apple iPhone 11,Apple iPhone 12,Apple iPhone 12 mini,OK,Easy
+Must be iPhone,600.00,Small,Somewhat,A lot,Not sure,Apple iPhone 11,Apple iPhone 12,Apple iPhone 12 mini,OK,Medium
+Must be iPhone,800.00,Large,Somewhat,Not sure,A lot,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Must be iPhone,800.00,Medium,A lot,A ton,Not sure,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 Pro Max,OK,Easy
+Must be iPhone,800.00,No preference,A little,Not sure,A little,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,OK,Easy
+Must be iPhone,800.00,No preference,Somewhat,Not sure,A lot,Apple iPhone 13 Pro,Apple iPhone 13 Pro Max,Apple iPhone 13,Good,Easy
+Must be iPhone,800.00,Small,A little,Not sure,A lot,Apple iPhone 13 mini,Apple iPhone 13 Pro,Apple iPhone 12 mini,Good,Easy
+Must be iPhone,800.00,Small,A ton,A ton,Not sure,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 mini,Good,Easy
+Must be iPhone,Not sure,Large,A lot,A ton,Not sure,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Must be iPhone,Not sure,Large,A ton,A ton,I need speed,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Must be iPhone,Not sure,Medium,A ton,A lot,A little,Apple iPhone 13 Pro,Apple iPhone 13 Pro Max,Apple iPhone 13,Good,Medium
+Must be iPhone,Not sure,No preference,A ton,A lot,A little,Apple iPhone 13 Pro,Apple iPhone 13 Pro Max,Apple iPhone 13,Good,Medium
+No preference,400.00,Large,A ton,A little,Not sure,Samsung Galaxy A42,Samsung Galaxy A53,Google Pixel 5a,OK,Medium
+No preference,400.00,Medium,A ton,A little,A lot,Google Pixel 5a,OnePlus 8T,Apple iPhone SE (2022),OK,Medium
+No preference,400.00,No preference,A lot,A little,A little,Google Pixel 5a,Apple iPhone SE (2022),Samsung Galaxy A53,Good,Medium
+No preference,400.00,No preference,Not sure,A lot,A little,Apple iPhone SE (2022),Samsung Galaxy A42,OnePlus 8T,OK,Medium
+No preference,400.00,Small,A ton,A ton,A little,Google Pixel 5a,Apple iPhone 11,Samsung Galaxy S21 FE,Good,Hard
+No preference,600.00,Medium,A lot,Not sure,A little,Google Pixel 6,OnePlus 9,Samsung Galaxy S21 FE,Good,Medium
+No preference,600.00,No preference,A lot,Not sure,A little,Google Pixel 6,OnePlus 9,Samsung Galaxy S20 FE,OK,Medium
+No preference,600.00,No preference,Somewhat,A little,Not sure,Google Pixel 6,Samsung Galaxy S21 FE,OnePlus 9,OK,Medium
+No preference,600.00,Small,Not sure,Not sure,I need speed,Apple iPhone 12 mini,Apple iPhone 13 mini,Apple iPhone SE (2022),Good,Easy
+No preference,800.00,Large,Somewhat,A little,I need speed,Apple iPhone 13 Pro Max,Samsung Galaxy S22,Motorola Edge 30 Pro,Good,Medium
+No preference,800.00,Large,Somewhat,A lot,A little,Samsung Galaxy S22 Ultra,Apple iPhone 13 Pro Max,Motorola Moto G100,OK,Easy
+No preference,800.00,Large,Somewhat,Not sure,A little,Apple iPhone 13 Pro Max,Samsung Galaxy S22 Ultra,Google Pixel 6 Pro,Good,Medium
+No preference,800.00,Medium,A little,Not sure,A little,Samsung Galaxy S22+,Google Pixel 6,Samsung Galaxy S21 FE,OK,Medium
+No preference,800.00,Medium,A ton,A little,A little,Apple iPhone 13 Pro,Samsung Galaxy S22+,Apple iPhone 13,Good,Easy
+No preference,800.00,No preference,Not sure,Not sure,I need speed,Apple iPhone 13,Apple iPhone 13 Pro,Apple iPhone 13 Pro Max,OK,Medium
+No preference,800.00,No preference,A little,Not sure,Not sure,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Samsung Galaxy S22 Ultra,OK,Hard
+No preference,Not sure,Medium,Somewhat,A ton,I need speed,Apple iPhone 13 Pro,Samsung Galaxy S22+,Apple iPhone 13,OK,Hard
+No preference,Not sure,No preference,A ton,A little,A little,Google Pixel 6,Apple iPhone 13,Samsung Galaxy S21 FE,OK,Hard
+No preference,Not sure,No preference,Not sure,A ton,A little,Samsung Galaxy A42,Apple iPhone 13 Pro Max,Google Pixel 5a,Good,Medium
+No preference,Not sure,No preference,A little,Not sure,A little,Google Pixel 6,Samsung Galaxy S20 FE,OnePlus 9,OK,Medium
+No preference,Not sure,Small,Somewhat,A little,A lot,Apple iPhone 13 mini,Samsung Galaxy S22,Apple iPhone 13 Pro,OK,Medium
+No preference,Not sure,Large,A little,Not sure,A little,Samsung Galaxy A42,Samsung Galaxy A53,OnePlus 8T,OK,Medium
+No preference,Not sure,Medium,A little,A little,A little,Google Pixel 6,OnePlus 9,Samsung Galaxy S20 FE,Good,Medium
+No preference,Not sure,Medium,A ton,A lot,Not sure,Google Pixel 5a,Google Pixel 6,Samsung Galaxy S21 FE,Good,Medium
+No preference,Not sure,No preference,A little,Not sure,A little,Apple iPhone SE (2022),Google Pixel 5a,Samsung Galaxy A53,OK,Hard
+No preference,Not sure,No preference,A lot,Not sure,A little,Apple iPhone 13 Pro,Google Pixel 6,Samsung Galaxy S22,OK,Medium
+No preference,Not sure,No preference,A ton,A ton,I need speed,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,OK,Hard
+No preference,Not sure,No preference,Somewhat,A lot,I need speed,Apple iPhone 13 Pro Max,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Good,Easy
+No preference,Not sure,No preference,A little,Not sure,A lot,Apple iPhone 13,Samsung Galaxy S22+,OnePlus 9 Pro,OK,Medium
+No preference,Not sure,Small,A ton,Not sure,A little,Apple iPhone 13 mini,Samsung Galaxy S22,Apple iPhone 13,Good,Medium
+No preference,Not sure,Small,Somewhat,A ton,A little,Apple iPhone 13 Pro,Apple iPhone 13,Samsung Galaxy S22,Good,Medium
+No preference,400.00,Medium,Not sure,A lot,A little,Google Pixel 5a,OnePlus 8T,Apple iPhone SE (2022),OK,Medium
+No preference,400.00,No preference,Not sure,A lot,A little,Apple iPhone SE (2022),Google Pixel 5a,Samsung Galaxy A42,OK,Medium
+No preference,400.00,No preference,A little,A ton,Not sure,Samsung Galaxy A42,Google Pixel 5a,OnePlus 8T,OK,Medium
+No preference,400.00,No preference,Somewhat,A ton,A little,Samsung Galaxy A42,Samsung Galaxy A53,Samsung Galaxy A32,OK,Medium
+No preference,400.00,Small,A lot,Not sure,A little,Google Pixel 5a,Apple iPhone SE (2022),OnePlus 8T,Good,Medium
+No preference,400.00,Small,A lot,Not sure,I need speed,Apple iPhone SE (2022),Google Pixel 5a,Apple iPhone 11,OK,Hard
+No preference,400.00,Small,A ton,A lot,A little,Samsung Galaxy A42,Samsung Galaxy A53,OnePlus 8T,OK,Hard
+No preference,400.00,Small,Not sure,A lot,A little,Google Pixel 5a,OnePlus 8T,Motorola Moto G100,OK,Medium
+No preference,600.00,Large,A ton,A little,A little,Google Pixel 6,Samsung Galaxy S21 FE,OnePlus 9,OK,Medium
+No preference,600.00,Large,Somewhat,Not sure,Not sure,Google Pixel 6,Samsung Galaxy S21 FE,OnePlus 9,OK,Medium
+No preference,600.00,No preference,A ton,A little,I need speed,Google Pixel 6,Apple iPhone 13 mini,Apple iPhone 12 mini,OK,Medium
+No preference,600.00,Small,Somewhat,A little,I need speed,Apple iPhone 12 mini,Apple iPhone SE (2022),Apple iPhone 13 mini,Good,Easy
+No preference,800.00,Medium,Not sure,Not sure,I need speed,Apple iPhone 13 Pro,Samsung Galaxy S22+,Apple iPhone 13,OK,Hard
+No preference,800.00,Medium,Somewhat,A ton,Not sure,Google Pixel 5a,Samsung Galaxy A42,Samsung Galaxy A53,Good,Easy
+No preference,800.00,No preference,A lot,Not sure,Not sure,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13 Pro,OK,Medium
+No preference,800.00,No preference,A lot,Not sure,Not sure,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Samsung Galaxy S22 Ultra,Good,Easy
+No preference,800.00,No preference,A lot,Not sure,A lot,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Samsung Galaxy S22 Ultra,Good,Easy
+No preference,800.00,Small,A little,Not sure,Not sure,Apple iPhone 13 Pro,Apple iPhone 13,Samsung Galaxy S22,OK,Hard
+No preference,800.00,Small,Not sure,A lot,A little,Sony Xperia 5 III,Apple iPhone 13 Pro,Apple iPhone 13,Good,Medium
+No preference,800.00,Small,Somewhat,Not sure,A little,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 mini,Good,Medium
+No preference,Not sure,Large,A lot,A little,I need speed,Apple iPhone 13 Pro Max,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Good,Easy
+No preference,Not sure,Large,Somewhat,A lot,A little,OnePlus 9,Samsung Galaxy S20 FE,Google Pixel 5a,OK,Hard
+No preference,Not sure,No preference,A little,A little,Not sure,Apple iPhone SE (2022),Google Pixel 5a,Samsung Galaxy A42,Poor,Hard
+No preference,Not sure,Small,Somewhat,Not sure,I need speed,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 mini,Good,Easy
+No preference,Not sure,Small,Somewhat,Not sure,A lot,Apple iPhone 13 mini,Apple iPhone SE (2022),Apple iPhone 13,Good,Medium
+No preference,Not sure,No preference,A little,Not sure,Not sure,Samsung Galaxy A42,OnePlus 8T,Motorola Moto G100,OK,Medium
+No preference,Not sure,No preference,A ton,A little,Not sure,Google Pixel 5a,Google Pixel 6,Apple iPhone 12 mini,Good,Medium
+No preference,Not sure,No preference,Somewhat,Not sure,Not sure,Samsung Galaxy S22,Google Pixel 6,Google Pixel 5a,Poor,Hard
+No preference,Not sure,No preference,A ton,A ton,A lot,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Samsung Galaxy S22 Ultra,OK,Hard
+No preference,Not sure,No preference,Not sure,A little,A little,OnePlus 8T,Samsung Galaxy A32,OnePlus Nord N200,OK,Medium
+No preference,Not sure,Small,A ton,Not sure,Not sure,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 mini,Good,Medium
+Prefer Android,400.00,Large,A ton,A lot,I need speed,Google Pixel 6,Google Pixel 5a,OnePlus 8T,OK,Hard
+Prefer Android,400.00,Medium,A ton,Not sure,I need speed,Google Pixel 6,Google Pixel 5a,OnePlus 8T,OK,Hard
+Prefer Android,400.00,No preference,Not sure,Not sure,A lot,OnePlus 8T,Motorola Moto G100,Apple iPhone SE (2022),OK,Medium
+Prefer Android,400.00,No preference,A ton,A lot,A little,Google Pixel 5a,Samsung Galaxy A42,Apple iPhone SE (2022),Good,Easy
+Prefer Android,600.00,No preference,A little,A ton,I need speed,OnePlus 9,Samsung Galaxy S21 FE,Samsung Galaxy A42,OK,Hard
+Prefer Android,600.00,No preference,A little,A ton,I need speed,Samsung Galaxy S20 FE,Google Pixel 6,OnePlus 9,OK,Hard
+Prefer Android,600.00,No preference,Somewhat,A ton,I need speed,Samsung Galaxy S20 FE,Google Pixel 6,OnePlus 9,OK,Medium
+Prefer Android,800.00,Medium,A ton,Not sure,A little,Samsung Galaxy S22+,Google Pixel 6,Samsung Galaxy S21 FE,Good,Medium
+Prefer Android,800.00,Medium,Not sure,Not sure,I need speed,Samsung Galaxy S22+,Samsung Galaxy S21 FE,OnePlus 9,Good,Easy
+Prefer Android,800.00,Medium,Somewhat,Not sure,A little,Samsung Galaxy S22+,OnePlus 9 Pro,Apple iPhone 13 Pro,OK,Medium
+Prefer Android,800.00,No preference,A lot,Not sure,A lot,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Samsung Galaxy S22,Good,Easy
+Prefer Android,800.00,Small,A lot,A ton,Not sure,Sony Xperia 5 III,Google Pixel 5a,Apple iPhone 13 Pro,OK,Medium
+Prefer Android,800.00,Small,A lot,A ton,A lot,Samsung Galaxy S22,Samsung Galaxy S21 FE,Google Pixel 5a,OK,Hard
+Prefer Android,800.00,Small,A lot,Not sure,A lot,Samsung Galaxy S22,Sony Xperia 5 III,Samsung Galaxy S22+,OK,Medium
+Prefer Android,800.00,Small,A lot,Not sure,A little,Samsung Galaxy S22,OnePlus 9,Google Pixel 5a,Good,Medium
+Prefer Android,800.00,Small,A ton,A lot,A little,Samsung Galaxy S22,Sony Xperia 5 III,Samsung Galaxy S22+,OK,Medium
+Prefer Android,800.00,Small,Not sure,A ton,Not sure,Sony Xperia 5 III,Google Pixel 5a,Apple iPhone 13 Pro,OK,Medium
+Prefer Android,Not sure,Large,A lot,Not sure,I need speed,Samsung Galaxy S22 Ultra,Samsung Galaxy S22+,Google Pixel 6 Pro,OK,Medium
+Prefer Android,Not sure,Large,A ton,A little,A little,Samsung Galaxy S22+,Google Pixel 6,Google Pixel 6 Pro,Good,Medium
+Prefer Android,Not sure,Large,Not sure,Not sure,A little,Motorola Moto G Stylus,Motorola Edge (2021),Samsung Galaxy A32,OK,Easy
+Prefer Android,Not sure,Medium,A little,Not sure,A lot,OnePlus 9,Samsung Galaxy S21 FE,OnePlus 9 Pro,OK,Medium
+Prefer Android,Not sure,Medium,Not sure,A ton,A little,Google Pixel 5a,Samsung Galaxy A53,Samsung Galaxy S20 FE,OK,Medium
+Prefer Android,Not sure,No preference,A lot,Not sure,A little,Google Pixel 5a,Google Pixel 6,Samsung Galaxy S22,Good,Easy
+Prefer Android,Not sure,No preference,A lot,Not sure,I need speed,Google Pixel 6,Samsung Galaxy S22,Samsung Galaxy S22+,Good,Easy
+Prefer Android,Not sure,Small,A lot,A little,I need speed,Sony Xperia 5 III,Samsung Galaxy S21 FE,Apple iPhone 13 Pro,OK,Medium
+Prefer Android,Not sure,Large,A little,Not sure,Not sure,Samsung Galaxy S22 Ultra,Google Pixel 6 Pro,Google Pixel 6,OK,Medium
+Prefer Android,Not sure,Medium,A little,A lot,A little,Google Pixel 5a,Google Pixel 6,Samsung Galaxy A53,Poor,Hard
+Prefer Android,Not sure,No preference,A little,A little,A lot,OnePlus 9,Samsung Galaxy S22,Motorola Moto G100,Poor,Medium
+Prefer Android,Not sure,No preference,Not sure,Not sure,I need speed,OnePlus 9,Google Pixel 6,Samsung Galaxy S21 FE,Good,Medium
+Prefer Android,Not sure,Small,A little,A ton,I need speed,Sony Xperia 5 III,Samsung Galaxy S21 FE,OnePlus 9,Good,Medium
+Prefer Android,Not sure,Small,A lot,A lot,Not sure,Google Pixel 5a,Samsung Galaxy A53,OnePlus 8T,OK,Medium
+Prefer Android,Not sure,Small,A lot,Not sure,A lot,Samsung Galaxy S22,Sony Xperia 5 III,OnePlus 9,OK,Hard
+Prefer Android,Not sure,Small,A ton,A little,A lot,Samsung Galaxy S22,Sony Xperia 5 III,Google Pixel 5a,OK,Medium
+Prefer Android,Not sure,Small,Not sure,A lot,A little,Sony Xperia 5 III,Google Pixel 6,OnePlus 9,OK,Medium
+Prefer iPhone,400.00,Medium,Not sure,A lot,Not sure,Apple iPhone 11,Apple iPhone 12 mini,Google Pixel 5a,Poor,Hard
+Prefer iPhone,400.00,No preference,A little,A little,A little,Apple iPhone SE (2022),Apple iPhone 11,Google Pixel 5a,Good,Easy
+Prefer iPhone,400.00,No preference,A lot,A little,I need speed,Apple iPhone 13 mini,Apple iPhone 12 mini,Apple iPhone 12,Good,Medium
+Prefer iPhone,400.00,Small,A lot,Not sure,A little,Apple iPhone SE (2022),Google Pixel 5a,Apple iPhone 12 mini,OK,Easy
+Prefer iPhone,400.00,Small,A ton,A ton,A little,Apple iPhone SE (2022),Apple iPhone 11,Apple iPhone 12 mini,OK,Medium
+Prefer iPhone,400.00,Small,Not sure,Not sure,A little,Apple iPhone SE (2022),Apple iPhone 11,Apple iPhone 12 mini,OK,Medium
+Prefer iPhone,400.00,Small,Somewhat,A lot,A little,Apple iPhone SE (2022),Apple iPhone 11,Apple iPhone 12 mini,Good,Easy
+Prefer iPhone,600.00,Large,Somewhat,Not sure,I need speed,Apple iPhone 12,Apple iPhone 11,Google Pixel 6,Poor,Hard
+Prefer iPhone,600.00,No preference,A little,A lot,Not sure,Apple iPhone 12,Apple iPhone 13 mini,Apple iPhone 12 mini,OK,Medium
+Prefer iPhone,600.00,Small,A ton,A ton,Not sure,Apple iPhone 13 mini,Apple iPhone 12 mini,Apple iPhone SE (2022),Good,Easy
+Prefer iPhone,600.00,Small,Somewhat,A little,I need speed,Apple iPhone 13 mini,Apple iPhone SE (2022),Apple iPhone 12 mini,Good,Medium
+Prefer iPhone,800.00,No preference,Somewhat,Not sure,A lot,Apple iPhone 13,Apple iPhone 13 Pro,Apple iPhone 13 Pro Max,OK,Easy
+Prefer iPhone,800.00,Small,A lot,Not sure,A lot,Apple iPhone 13 mini,Apple iPhone 13 Pro,Apple iPhone 12 mini,OK,Medium
+Prefer iPhone,800.00,Small,A ton,Not sure,A lot,Apple iPhone 13 Pro,Apple iPhone 13 mini,Apple iPhone 13,Good,Medium
+Prefer iPhone,Not sure,Large,A little,A ton,A little,Apple iPhone 13 Pro Max,Apple iPhone 13,Apple iPhone 13 Pro,Good,Easy
+Prefer iPhone,Not sure,Large,A lot,Not sure,A little,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Prefer iPhone,Not sure,Medium,A ton,A lot,A little,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 12,Good,Medium
+Prefer iPhone,Not sure,No preference,A little,Not sure,Not sure,Apple iPhone 13,Apple iPhone 13 Pro,Apple iPhone 13 mini,Poor,Medium
+Prefer iPhone,Not sure,No preference,A ton,A ton,Not sure,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Medium
+Prefer iPhone,Not sure,Small,A lot,A little,A lot,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 mini,Good,Easy
+Prefer iPhone,Not sure,Small,Not sure,A little,I need speed,Apple iPhone 13 mini,Apple iPhone SE (2022),Apple iPhone 12 mini,Good,Easy
+Prefer iPhone,Not sure,Medium,A lot,Not sure,I need speed,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 12,Good,Easy
+Prefer iPhone,Not sure,No preference,A little,A ton,A lot,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Prefer iPhone,Not sure,No preference,A lot,A little,A lot,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Prefer iPhone,Not sure,No preference,A little,A lot,I need speed,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Prefer iPhone,Not sure,No preference,A little,Not sure,A lot,Apple iPhone 13 Pro Max,Apple iPhone 13 Pro,Apple iPhone 13,Good,Easy
+Prefer iPhone,Not sure,No preference,Not sure,Not sure,A little,Apple iPhone 11,Apple iPhone SE (2022),Apple iPhone 12 mini,Good,Medium
+Prefer iPhone,Not sure,Small,A little,Not sure,Not sure,Apple iPhone 13 mini,Apple iPhone SE (2022),Apple iPhone 12 mini,Good,Easy
+Prefer iPhone,Not sure,Small,A lot,A lot,A little,Apple iPhone 13 mini,Apple iPhone 12 mini,Apple iPhone SE (2022),Good,Easy
+Prefer iPhone,Not sure,Small,Not sure,Not sure,Not sure,Apple iPhone 13 Pro,Apple iPhone 13,Apple iPhone 13 mini,Good,Easy
